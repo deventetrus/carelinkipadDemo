@@ -1,6 +1,6 @@
 window.sampleLinksData = {
   "links": {
-    "Basic Welding Course": "https://docs.google.com/presentation/d/e/2PACX-1vT4Ecb4y5LXoxMs331RIds9WfNF0Ggzj1XIw5tRRLACEXicadvgWnD23WwH7zuLRPeqJtJWRDzwMuK_/pub?start=true&loop=true&delayms=15000"
+    "Basic Welding Course": "https://docs.google.com/presentation/d/e/2PACX-1vQc0XVtCDK09U0sJZKHS3YVnVDyr1zXWIyHXWme0-DrVHHWre3rvFV-BU8Qo5tZCQ/pubembed?start=true&loop=false&delayms=10000"
   },
   "activityLinks":{
     "Module 1: Introduction to Computers": "https://www.youtube.com/embed/w84t03oQMQQ?si=aQ2HTrGdO2ODRhEF",
