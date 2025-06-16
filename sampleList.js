@@ -5,6 +5,6 @@ window.sampleLinksData = {
     "JavaScript for Beginners": "https://www.youtube.com/watch?v=W6NZfCO5SIk"
   },
   "activityLinks":{
-    "Module 1: Introduction to Computers": "https://www.youtube.com/watch?v=OE4kP4Fh7Pg"
+    "Module 1: Introduction to Computers": "https://www.youtube.com/embed/w84t03oQMQQ?si=aQ2HTrGdO2ODRhEF"
   }
 };
