@@ -1,0 +1,9 @@
+{
+  "sampleLinks": {
+    "p1": "https://docs.google.com/presentation/d/e/2PACX-1vTIb80k95r-f6FiqBWMM21SEMqeUMLXdBNoLrN-9htwEyVORwsNAp02G_-0Fj2weOClDHUSSz8E11cO/pubembed?start=true&loop=false&delayms=3000",
+    "p2": "https://www.youtube.com/watch?v=4UZrsTqkcW4",
+    "JavaScript for Beginners": "https://www.youtube.com/watch?v=W6NZfCO5SIk",
+    "CSS Flexbox": "https://www.youtube.com/watch?v=fYq5PXgSsbE",
+    "Node.js Introduction": "https://www.youtube.com/watch?v=U8XF6AFGqlc"
+  }
+}
