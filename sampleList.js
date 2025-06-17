@@ -22,6 +22,6 @@ window.sampleLinksData = {
     "Lesson 6: Drainage, Waste, and Vent (DWV) Systems":"https://www.youtube.com/embed/D_5iyjXUV-o?si=QcU7-ILcE_O5aw6b",
     "Lesson 8.1: Leak Detection and Repair":"https://www.youtube.com/embed/tyVuozXM3WA?si=aSmAgTzSEF6CTKCq",
     "Lesson 8.2: Clearing Blockages":"https://www.youtube.com/embed/NFYFaczoWt0?si=jLV9sROE6HlPO9f4",
-    "Lesson 8.3: Repairing/Replacing Faucets and Valves":"https://www.youtube.com/embed/rBJ0dBae-YM?si=fPI3CZkfaclb6TRg",
+    "Lesson 8.3: Repairing/Replacing Faucets and Valves":"https://www.youtube.com/embed/rBJ0dBae-YM?si=fPI3CZkfaclb6TRg"
   }
 };
