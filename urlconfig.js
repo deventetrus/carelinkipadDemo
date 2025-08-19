@@ -1,1 +1,1 @@
-window.sampleLinksData = "https://deventetrus.github.io/carelinkipadDemo/assets/";
+window.sampleurlinfo = "https://deventetrus.github.io/carelinkipadDemo/assets/";
