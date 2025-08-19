@@ -1,1 +1,1 @@
-window.sampleurlinfo = "https://deventetrus.github.io/carelinkipadDemo/assets/";
+window.sampleurlinfo = "https://ilink.tetrus.dev/izip/";
