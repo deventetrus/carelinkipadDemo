@@ -1,1 +1,1 @@
-window.sampleurlinfo = "https://ilink.tetrus.dev/izip/";
+window.sampleurlinfo = "https://prea-dev.azurewebsites.net/";
